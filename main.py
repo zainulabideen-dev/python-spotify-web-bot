@@ -10,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 
 
-email = "zainulabideendev@gmail.com"
-password = "L@MbD@110funct!0n"
+email = "your-spotify-email-id"
+password = "your-spotify-password"
 delay = 3
 artist = 'strings'
 song_delay = 40
